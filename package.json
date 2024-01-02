@@ -1,0 +1,22 @@
+{
+  "name": "lqyspace-assets",
+  "version": "1.0.1",
+  "description": "静态资源库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lqyspace/lqyspace-Assets.git"
+  },
+  "keywords": [
+    "图床"
+  ],
+  "author": "lqyspace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lqyspace/lqyspace-Assets/issues"
+  },
+  "homepage": "https://github.com/lqyspace/lqyspace-Assets#readme"
+}
