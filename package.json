@@ -1,6 +1,6 @@
 {
   "name": "lqyspace-assets",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "静态资源库",
   "main": "index.js",
   "scripts": {
